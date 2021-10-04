@@ -15,6 +15,16 @@ Para contribuir com projeto, siga estas etapas:
 
 Caso tenha dificuldades, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
+## Padrão de COMMITS
+
+Nesse projeto, usaremos emojis como guia para nossos commits, acesse [esse site](https://gitmoji.dev/) para entender melhor.
+
+Basicamente, o que muda é que, na hora de escrever sua mensagem de commit, você irá adicionar um emoji para ajudar a identificar o que você fez. Por exemplo, alterando essa documentação para adicionar essa seção, na hora de commitar, eu irei no site e procurarei um emoji que faça sentido com o que estou modificando, nesse caso, o emoji referente a documentação, irei copiar o emoji e adicionar na hora de commitar:
+
+``
+git commit -m ":memo: adicinando padrão de emotes na documentação"
+``
+
 ## Informações Importantes
 
 Já temos classes criadas no HTML para ajudar nas moficiações visuais do site utilizando CSS. Caso precise fazer um modificação em que tenha que se criar uma nova classe, siga o padrão do código, nesse caso, estamos utilizando o BEM. Se você não o conhece, leia [esse artigo](https://dev.to/feministech/pt-br-o-que-eh-bem-e-porque-usar-isso-pra-nomear-html-css-2m18) para entender melhor.
