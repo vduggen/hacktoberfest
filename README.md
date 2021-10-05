@@ -9,7 +9,7 @@
 
 > Esse projeto consiste em mostrar para as pessoas o que é a hacktoberfest e o mundo open-source ao mesmo tempo em que as mesmas participam e contribuem nele.
 
-### Leia o artigo que originou esse projeto [aqui]().
+### Leia o artigo que originou esse projeto [aqui](https://github.com/vduggen/hacktoberfest.git).
 
 ## 🔍 Ajustes e melhorias
 
