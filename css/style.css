@@ -151,3 +151,7 @@ body {
   text-transform: lowercase;
   color: #fafafa;
 }
+
+.content__what {
+  color: #fafafa;
+}
