@@ -3,8 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/levxyca/hacktoberfest?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/levxyca/hacktoberfest?style=for-the-badge)
 ![Github open issues](https://img.shields.io/github/issues-raw/levxyca/hacktoberfest?style=for-the-badge)
-![GIthub pull requests](https://img.shields.io/github/issues-pr/levxyca/hacktoberfest?style=for-the-badge)
-![Hacktoberfest](https://img.shields.io/github/hacktoberfest/2021/levxyca/hacktoberfest?color=red&style=for-the-badge)
+![Github pull requests](https://img.shields.io/github/issues-pr/levxyca/hacktoberfest?style=for-the-badge)
 
 ![Imagem de exemplo da página inicial do site](img/example.png)
 
