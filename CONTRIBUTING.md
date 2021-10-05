@@ -2,7 +2,7 @@
 
 Para contribuir com este repositório, vá para a aba de issues e procure algo que seja interessante para você.
 
-Para que você entenda melhor sobre esse projeto recomenda-se a leitura [desse artigo](). Caso tenha alguma dúvida mande um comentário na issue.
+Para que você entenda melhor sobre esse projeto recomenda-se a leitura [desse artigo](https://dev.to/levxyca/inicie-no-mundo-open-source-participando-da-hacktoberfest-3np6). Caso tenha alguma dúvida mande um comentário na issue.
 
 ## Como Contribuir
 
