@@ -149,13 +149,14 @@ body {
 }
 
 .content__what {
-  background-color:#2B3531; 
+  background-color: #2b3531;
   font-size: 2.5rem;
   letter-spacing: 0.1em;
   text-transform: lowercase;
   color: #fafafa;
 }
 
-.content__what {
-  color: #fafafa;
+.content__what-p {
+  margin: 5rem 1.5rem;
+  line-height: 1.2;
 }
