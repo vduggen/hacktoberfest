@@ -151,3 +151,9 @@ body {
   text-transform: lowercase;
   color: #fafafa;
 }
+
+.header__nav-menu-item {
+  color: #fafafa;
+  font-size: 1rem;
+  margin: 1rem 0;
+}
